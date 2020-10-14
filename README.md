@@ -1,3 +1,3 @@
-# aSimpleDtory
+# aSimpleStory
 
 Alice started her work
